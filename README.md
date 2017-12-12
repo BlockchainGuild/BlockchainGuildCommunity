@@ -13,7 +13,13 @@ Some possible thoughts:
 
 The Blockchain Guild members are:
 
-* [Christopher Allen](mailto:ChristopherA@LifeWithAlacrity.com): Internet Cryptography Pioneer — Co-author TLS Security Standard. Principal Architect — Blockstream Corporation.  Decentralized Identity technologist — host of #RebootingWebOfTrust & co-chair of the W3C Credentials Community. Former Technology Leadership Faculty - taugh in the MBA in Sustainable Systems program at [Pinchot.edu](http://bgi.pinchot.edu). He resides in the Bay Area of California USA, blogs at [Life With Alacrity](http://www.LifeWithAlacrity.com) and on Twitter is []@ChristopherA](@ChristopherA).
+* [Christopher Allen](mailto:ChristopherA@LifeWithAlacrity.com):
+  * Internet Cryptography Pioneer — Co-author TLS Security Standard.
+  * Principal Architect — Blockstream Corporation.
+  * Decentralized Identity Advocate — host of #RebootingWebOfTrust & co-chair of the W3C Credentials Community
+  * Technology Leadership - former Faculty in the MBA in Sustainable Systems program at [Pinchot.edu](http://bgi.pinchot.edu). 
+  * Blogs at [Life With Alacrity](http://www.LifeWithAlacrity.com) and on Twitter is [@ChristopherA](@ChristopherA).
+  * Resides in the Bay Area of California USA
 
 * [Steve Johnson](mailto:satoshi@nomofomo.net): Professional Amateur - creator of bots and nodes.  Electronics repair and logistics in previous lives, focused on Bitcoin since 2012.  He currently resides in SW Arkansas trying to bring Bitcoin to the Forest.  You can find him on Twitter [@internaut42](https://www.twitter.com/internaut42) and his price average bot [@indxio](https://www.twitter.com/indxio)
 
@@ -52,3 +58,7 @@ If you find typos, mistakes, inconsistencies or other problems in the Blockchain
 ## RoadMap
 
 - [x] Create Github Community
+
+- [ ] Create website for blockchainguild.com
+
+      ​
