@@ -69,6 +69,12 @@ If you find typos, mistakes, inconsistencies or other problems in the Blockchain
 
 - [x] Create Github Community
 
-- [ ] Create website for blockchainguild.com
+- [ ] Create website for blockchainguild.com, maybe also blockchaincommons.org (ChristopherA currently holds these domains)
+
+- [ ] We need a CONTRIBUTING.md, something along the lines of [ParticipatoryOrgs-Community/CONTRIBUTING.md](https://github.com/ParticipatoryOrgs/ParticipatoryOrgs-Community/blob/master/CONTRIBUTING.md) & [ipfs/contributing.md](https://github.com/ipfs/community/blob/master/contributing.md)
+
+- [ ] Convene an online community meeting of initial participants
+
+      ​
 
       ​
