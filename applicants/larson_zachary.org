@@ -1,0 +1,29 @@
+#+TITLE: Apprentice Zachary Larson
+
+
+I'm interested in applying research in formal methods to correct software design in exploring the tradeoffs in peer-to-peer and distributed ledger technologies that can serve the needs of self-determining communities. 
+
+* Proposed Project
+  A high level language for Bitcoin Scripting that is formally defined using the K-Framework.
+
+* Interests
+  - Language Design
+  - Functional Programming
+    - Lisps, mostly
+  - Logic Programming
+    - Prolog
+    - Maude
+    - K-Framework
+    - Constraint Logic Programming
+  - (Object) Capability Systems
+    - [[https://github.com/hierophantos/capable][What are Capabilities?]]
+  - Formal Methods and Logic systems
+    - type theory
+    - linear logic
+    - session types
+  - Self-Sovereign Identity and Decentralized Identity
+
+* Contact
+  - email:   zee.larson@gmail.com
+  - twitter: https://twitter.com/zacharylarson
+  - github:  https://github.com/hierophantos/
