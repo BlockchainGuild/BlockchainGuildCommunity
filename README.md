@@ -24,6 +24,8 @@ The Blockchain Guild members are:
   * Blogs at [Life With Alacrity](http://www.LifeWithAlacrity.com) and on Twitter is [@ChristopherA](@ChristopherA)
   * Resides in the Bay Area of California USA
 
+* [Steve Johnson](mailto:satoshi@nomofomo.net): Professional Amateur - creator of bots and nodes.  Electronics repair and logistics in previous lives, focused on Bitcoin since 2012.  He currently resides in SW Arkansas trying to bring Bitcoin to the Forest.  You can find him on Twitter [@internaut42](https://www.twitter.com/internaut42) and his price average bot [@indxio](https://www.twitter.com/indxio)
+
 * [Bruno Volpato](mailto:brunocvcunha@gmail.com):
   * Apprentice at the Blockchain Guild.
   * Back-End Engineer — TOTVS Labs.
@@ -82,6 +84,6 @@ If you find typos, mistakes, inconsistencies or other problems in the Blockchain
 
 - [ ] We need a CONTRIBUTING.md, something along the lines of [ParticipatoryOrgs-Community/CONTRIBUTING.md](https://github.com/ParticipatoryOrgs/ParticipatoryOrgs-Community/blob/master/CONTRIBUTING.md) & [ipfs/contributing.md](https://github.com/ipfs/community/blob/master/contributing.md)
 
-- [ ] Convene an online community meeting of initial participants, create an initial proposal for participatory governance 
+- [ ] Convene an online community meeting of initial participants, create an initial proposal for participatory governance
 
       ​
