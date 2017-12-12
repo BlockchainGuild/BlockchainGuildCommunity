@@ -8,7 +8,9 @@ Some possible thoughts:
 * Participatory and inclusive practices
 * Learning Community
 * "Rough consensus & working code"
-* Non-heirarchical and Decentralized as possible
+* Non-Heirarchical and Decentralized as possible
+* Support infrastructure & [commons](http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html) for blockchains
+* To avoid needing incorporating, can we avoid custody of funds from patrons, and use multisig with timelock act as a non-custodial escrow?
 
 ## Members
 
@@ -73,8 +75,6 @@ If you find typos, mistakes, inconsistencies or other problems in the Blockchain
 
 - [ ] We need a CONTRIBUTING.md, something along the lines of [ParticipatoryOrgs-Community/CONTRIBUTING.md](https://github.com/ParticipatoryOrgs/ParticipatoryOrgs-Community/blob/master/CONTRIBUTING.md) & [ipfs/contributing.md](https://github.com/ipfs/community/blob/master/contributing.md)
 
-- [ ] Convene an online community meeting of initial participants
-
-      ​
+- [ ] Convene an online community meeting of initial participants, create an initial proposal for participatory governance 
 
       ​
