@@ -22,6 +22,13 @@ The Blockchain Guild members are:
   * Blogs at [Life With Alacrity](http://www.LifeWithAlacrity.com) and on Twitter is [@ChristopherA](@ChristopherA)
   * Resides in the Bay Area of California USA
 
+* [Bruno Volpato](mailto:brunocvcunha@gmail.com):
+  * Apprentice at the Blockchain Guild.
+  * Back-End Engineer — TOTVS Labs.
+  * Self-taught developer for more than 10 years and with a passion for Blockchain and Cryptography. Expert in automating work, and creating crawlers and bots for all sorts of crazy things.
+  * Twitter is [https://twitter.com/brunocvcunha](@brunocvcunha).
+  * Originally from Brazil, but living for over a year in the San Francisco Bay Area :sunglasses:
+
 ## Communications
 
 The Blockchain Guild community maintains the following communication channels:
