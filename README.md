@@ -37,6 +37,12 @@ The Blockchain Guild members are:
   * Twitter is [https://twitter.com/brunocvcunha](@brunocvcunha).
   * Originally from Brazil, but living for over a year in the San Francisco Bay Area :sunglasses:
 
+* [Bogdan Avram](mailto:bogdanadrian108@gmail.com):
+  * Apprentice
+  * Blockchain enthusiast
+  * Student at School 42
+  * Algorithms, C and Java skills
+
 ## Communications
 
 The Blockchain Guild community maintains the following communication channels:
