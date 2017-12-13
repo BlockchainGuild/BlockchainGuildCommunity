@@ -8,7 +8,9 @@ Some possible thoughts:
 * Participatory and inclusive practices
 * Learning Community
 * "Rough consensus & working code"
-* Non-heirarchical and Decentralized as possible
+* Non-Heirarchical and Decentralized as possible
+* Support infrastructure & [commons](http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html) for blockchains
+* To avoid needing incorporating, can we avoid custody of funds from patrons, and use multisig with timelock act as a non-custodial escrow?
 
 ## Members
 
@@ -23,6 +25,13 @@ The Blockchain Guild members are:
   * Resides in the Bay Area of California USA
 
 * [Steve Johnson](mailto:satoshi@nomofomo.net): Professional Amateur - creator of bots and nodes.  Electronics repair and logistics in previous lives, focused on Bitcoin since 2012.  He currently resides in SW Arkansas trying to bring Bitcoin to the Forest.  You can find him on Twitter [@internaut42](https://www.twitter.com/internaut42) and his price average bot [@indxio](https://www.twitter.com/indxio)
+
+* [Bruno Volpato](mailto:brunocvcunha@gmail.com):
+  * Apprentice at the Blockchain Guild.
+  * Back-End Engineer — TOTVS Labs.
+  * Self-taught developer for more than 10 years and with a passion for Blockchain and Cryptography. Expert in automating work, and creating crawlers and bots for all sorts of crazy things.
+  * Twitter is [https://twitter.com/brunocvcunha](@brunocvcunha).
+  * Originally from Brazil, but living for over a year in the San Francisco Bay Area :sunglasses:
 
 ## Communications
 
@@ -71,6 +80,10 @@ If you find typos, mistakes, inconsistencies or other problems in the Blockchain
 
 - [x] Create Github Community
 
-- [ ] Create website for blockchainguild.com
+- [ ] Create website for blockchainguild.com, maybe also blockchaincommons.org (ChristopherA currently holds these domains)
+
+- [ ] We need a CONTRIBUTING.md, something along the lines of [ParticipatoryOrgs-Community/CONTRIBUTING.md](https://github.com/ParticipatoryOrgs/ParticipatoryOrgs-Community/blob/master/CONTRIBUTING.md) & [ipfs/contributing.md](https://github.com/ipfs/community/blob/master/contributing.md)
+
+- [ ] Convene an online community meeting of initial participants, create an initial proposal for participatory governance
 
       ​
