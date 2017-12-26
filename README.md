@@ -65,8 +65,9 @@ These documents are Copyright (c) 2017 by the [Blockchain Guild](https://github.
 ## Current Bounties
 
 * 0.5 BTC, split among Apprentice contributions to testing confirming the quality of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line) tutorial and helping update it to Bitcoin 0.15.1
-* 0.5 BTC, for an accepted Journeymam proposal and final code for a simple C app doing RPC to bitcoind using some [libwally-core](https://github.com/ElementsProject/libwally-core) to Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
+* 0.5 BTC, for an accepted Journeyman proposal and final code for a simple C app doing RPC to bitcoind using some [libwally-core](https://github.com/ElementsProject/libwally-core) to Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
 * 0.5 BTC, for an accepted Journeyman proposal and final code for a better C-based RPC library to bitcoind than used in Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
+* 0.5 BTC, for an accepted Journeyman Bitcoin Script debugger and update to Chapter 7 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
 
 ## Disclaimer
 
