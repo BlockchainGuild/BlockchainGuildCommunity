@@ -8,7 +8,7 @@ Some possible thoughts:
 * Participatory and inclusive practices
 * Learning Community
 * "Rough consensus & working code"
-* Non-Heirarchical and Decentralized as possible
+* Non-Hierarchical and Decentralized as possible
 * Support infrastructure & [commons](http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html) for blockchains
 * To avoid needing incorporating, can we avoid custody of funds from patrons, and use multisig with timelock act as a non-custodial escrow?
 
@@ -24,7 +24,7 @@ The Blockchain Guild members are:
   * Blogs at [Life With Alacrity](http://www.LifeWithAlacrity.com) and on Twitter is [@ChristopherA](@ChristopherA)
   * Resides in the Bay Area of California USA
 
-* [Steve Johnson](mailto:satoshi@nomofomo.net): 
+* [Steve Johnson](mailto:satoshi@nomofomo.net):
   * Professional Amateur - creator of bots and nodes
   * Electronics repair and logistics in previous lives, focused on Bitcoin since late 2012
   * Currently resides in SW Arkansas trying to bring Bitcoin to the Forest
