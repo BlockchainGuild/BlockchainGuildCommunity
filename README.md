@@ -47,7 +47,7 @@ The Blockchain Guild members are:
 * [Tuur Demeester](mailto:demeester.tuur@gmail.com):
   * Investment analyst, recommended Bitcoin since 2012
   * Founder & CEO of Adamant Capital
-  * Blogs on [Medium](medium.com/@tuurdemeester) and on Twitter is [@tuurdemeester](@tuurdemeester)
+  * Blogs on [Medium](medium.com/@tuurdemeester) and on Twitter is [@tuurdemeester](twitter.com/tuurdemeester)
   * Originally from Belgium, resides in Austin, TX
 
 ## Communications
