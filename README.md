@@ -42,6 +42,13 @@ The Blockchain Guild members are:
   * Blockchain enthusiast
   * Student at School 42
   * Algorithms, C and Java skills
+  
+  
+* [Tuur Demeester](mailto:demeester.tuur@gmail.com):
+  * Investment analyst, recommended Bitcoin since 2012
+  * Founder & CEO of Adamant Capital
+  * Blogs on [Medium](medium.com/@tuurdemeester) and on Twitter is [@tuurdemeester](@tuurdemeester)
+  * Originally from Belgium, resides in Austin, TX
 
 ## Communications
 
