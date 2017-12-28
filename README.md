@@ -26,7 +26,7 @@ The Blockchain Guild members are:
 
 * [Kalle Alm][mailto:kalle.alm@gmail.com]:
   * Blockchain Software Developer at Digital Garage
-  * Bitcoin Core Contributor
+  * Bitcoin Core Member
   * Former developer of Infinite PDF for iPad
   * Resides in Tokyo Japan
 
