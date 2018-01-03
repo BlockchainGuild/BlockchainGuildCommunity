@@ -17,7 +17,7 @@ Some possible thoughts:
 
 ## News
 
-**2017-01-03:** *First Blockchain Guild bounty awarded* — 0.5 BTC, to [@KalleWoof](https://twitter.com/kallewoof) for [btcdeb](https://github.com/kallewoof/btcdeb), a Bitcoin Script debugger and am update to Chapter 7 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).  Patrons for this award are [@ChristopherA](https://twitter.com/ChristopherA), [@JimmySong](https://twitter.com/jimmysong), [@TuurDemeester](https://twitter.com/TuurDeester) [@SatoshiLite](https://twitter.com/satoshilite) & [@ZcashCo](https://twitter.com/zcaschco). 
+**2017-01-03:** *First Blockchain Guild bounty awarded* — 0.5 BTC, to [@KalleWoof](https://twitter.com/kallewoof) for [btcdeb](https://github.com/kallewoof/btcdeb), a Bitcoin Script debugger and am update to Chapter 7 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).  Patrons for this award are [@ChristopherA](https://twitter.com/ChristopherA), [@JimmySong](https://twitter.com/jimmysong), [@TuurDemeester](https://twitter.com/TuurDemeester) [@SatoshiLite](https://twitter.com/satoshilite) & [@ZcashCo](https://twitter.com/zcaschco). 
 
 ## Members
 
