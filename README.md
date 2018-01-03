@@ -13,7 +13,11 @@ Some possible thoughts:
 * "Rough consensus & working code"
 * Non-Hierarchical and Decentralized as possible
 * Support infrastructure & [commons](http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html) for blockchains
-* To avoid needing incorporating, can we avoid custody of funds from patrons, and use multisig with timelock act as a non-custodial escrow?
+* To avoid needing incorporating, can we minimize custody of funds from patrons, and use multisig with timelock act as a non-custodial escrow?
+
+## News
+
+**2017-01-03:** *First Blockchain Guild bounty awarded* — 0.5 BTC, to [@KalleWoof](https://twitter.com/kallewoof) for [btcdeb](https://github.com/kallewoof/btcdeb), a Bitcoin Script debugger and am update to Chapter 7 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).  Patrons for this award are [@ChristopherA](https://twitter.com/ChristopherA), [@JimmySong](https://twitter.com/jimmysong), [@TuurDemeester](https://twitter.com/TuurDeester) [@SatoshiLite](https://twitter.com/satoshilite) & [@ZcashCo](https://twitter.com/zcaschco). 
 
 ## Members
 
@@ -51,8 +55,7 @@ The Blockchain Guild members are:
   * Blockchain enthusiast
   * Student at School 42
   * Algorithms, C and Java skills
-  
-  
+
 * [Tuur Demeester](mailto:demeester.tuur@gmail.com):
   * Investment analyst, recommended Bitcoin since 2012
   * Founder & CEO of Adamant Capital
@@ -83,7 +86,6 @@ These documents are Copyright (c) 2017 by the [Blockchain Guild](https://github.
 * 0.5 BTC, split among Apprentice contributions to testing confirming the quality of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line) tutorial and helping update it to Bitcoin 0.15.1
 * 0.5 BTC, for an accepted Journeyman proposal and final code for a simple C app doing RPC to bitcoind using some [libwally-core](https://github.com/ElementsProject/libwally-core) to Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
 * 0.5 BTC, for an accepted Journeyman proposal and final code for a better C-based RPC library to bitcoind than used in Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
-* 0.5 BTC, for an accepted Journeyman Bitcoin Script debugger and update to Chapter 7 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
 
 ## Disclaimer
 
