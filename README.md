@@ -87,7 +87,7 @@ These documents are Copyright (c) 2017 by the [Blockchain Guild](https://github.
 * 0.5 BTC, for an accepted Journeyman proposal and final code for a simple C app doing RPC to bitcoind using some [libwally-core](https://github.com/ElementsProject/libwally-core) to Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
 * 0.5 BTC, for an accepted Journeyman proposal and final code for a better C-based RPC library to bitcoind than used in Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
 
-If you are interested in supporting a specific blockchain FOSS bounty project, or wish to support bounties in general, or in supporting infrastructure, contact [ChristopherA@LifeWithAlacrity.com](ChristopherA@LifeWithAlacrity.com) or you can directly contribute BTC to 12pypEWGCnFXPJdSs283Q9W95BLEsQ9UBW — we are investigating non-profit status but we do not have it at this time, so any contributions are not tax-deductible.
+If you are interested in supporting a specific blockchain FOSS bounty project, or wish to support bounties in general, or in supporting infrastructure, contact [ChristopherA@LifeWithAlacrity.com](ChristopherA@LifeWithAlacrity.com) or you can directly contribute BTC to [12pypEWGCnFXPJdSs283Q9W95BLEsQ9UBW](bitcoin:12pypEWGCnFXPJdSs283Q9W95BLEsQ9UBW) — we are investigating non-profit status but we do not have it at this time, so any contributions are not tax-deductible.
 
 ## Disclaimer
 
