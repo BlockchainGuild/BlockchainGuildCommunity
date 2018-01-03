@@ -31,7 +31,7 @@ The Blockchain Guild members are:
   * Blogs at [Life With Alacrity](http://www.LifeWithAlacrity.com) and on Twitter is [@ChristopherA](@ChristopherA)
   * Resides in the Bay Area of California USA
 
-* [Kalle Alm][mailto:kalle.alm@gmail.com]:
+* [Kalle Alm](mailto:kalle.alm@gmail.com):
   * Blockchain Software Developer at Digital Garage
   * Bitcoin Core Member
   * Former developer of Infinite PDF for iPad
