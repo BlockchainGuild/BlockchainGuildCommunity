@@ -1,6 +1,9 @@
 # Blockchain Guild Community
 
-The purpose of the [Blockchain Guild](https://github.com/BlockchainGuild) is (TBD):
+The purpose of the [Blockchain Guild](https://github.com/BlockchainGuild) is to:
+* Allow Patrons to be able to contribute back to support the open source ecosystem that allowed them to be successful.
+* Incentivize junior software engineers or those new to blockchain develop to learn the best practices of the community, and allow more experienced engineers a place to mentor them.
+* Support blockchain documentation, example code, libraries, infrastructure, etc.
 
 Some possible thoughts:
 * Apprentice, Journeyman, Master?
@@ -24,6 +27,12 @@ The Blockchain Guild members are:
   * Blogs at [Life With Alacrity](http://www.LifeWithAlacrity.com) and on Twitter is [@ChristopherA](@ChristopherA)
   * Resides in the Bay Area of California USA
 
+* [Kalle Alm][mailto:kalle.alm@gmail.com]:
+  * Blockchain Software Developer at Digital Garage
+  * Bitcoin Core Member
+  * Former developer of Infinite PDF for iPad
+  * Resides in Tokyo Japan
+
 * [Steve Johnson](mailto:satoshi@nomofomo.net):
   * Professional Amateur - creator of bots and nodes
   * Electronics repair and logistics in previous lives, focused on Bitcoin since late 2012
@@ -42,6 +51,13 @@ The Blockchain Guild members are:
   * Blockchain enthusiast
   * Student at School 42
   * Algorithms, C and Java skills
+  
+  
+* [Tuur Demeester](mailto:demeester.tuur@gmail.com):
+  * Investment analyst, recommended Bitcoin since 2012
+  * Founder & CEO of Adamant Capital
+  * Blogs on [Medium](medium.com/@tuurdemeester) and on Twitter is [@tuurdemeester](twitter.com/tuurdemeester)
+  * Originally from Belgium, resides in Austin, TX
 
 ## Communications
 
@@ -65,8 +81,9 @@ These documents are Copyright (c) 2017 by the [Blockchain Guild](https://github.
 ## Current Bounties
 
 * 0.5 BTC, split among Apprentice contributions to testing confirming the quality of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line) tutorial and helping update it to Bitcoin 0.15.1
-* 0.5 BTC, for an accepted Journeymam proposal and final code for a simple C app doing RPC to bitcoind using some [libwally-core](https://github.com/ElementsProject/libwally-core) to Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
+* 0.5 BTC, for an accepted Journeyman proposal and final code for a simple C app doing RPC to bitcoind using some [libwally-core](https://github.com/ElementsProject/libwally-core) to Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
 * 0.5 BTC, for an accepted Journeyman proposal and final code for a better C-based RPC library to bitcoind than used in Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
+* 0.5 BTC, for an accepted Journeyman Bitcoin Script debugger and update to Chapter 7 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
 
 ## Disclaimer
 
