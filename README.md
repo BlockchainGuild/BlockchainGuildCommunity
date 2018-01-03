@@ -62,6 +62,12 @@ The Blockchain Guild members are:
   * Blogs on [Medium](medium.com/@tuurdemeester) and on Twitter is [@tuurdemeester](twitter.com/tuurdemeester)
   * Originally from Belgium, resides in Austin, TX
 
+* [Jameson Lopp](mailto:jameson.lopp@gmail.com):
+  * Software Engineer
+  * Creator of [Statoshi](https://statoshi.info) & the [Bitcoin Core Config Generator](jlopp.github.io/bitcoin-core-config-generator/)
+  * Writes on [Medium](medium.com/@lopp), [Coindesk](coindesk.com/author/jameson-lopp/), and Twitter [@lopp](twitter.com/lopp)
+  * Maintains Bitcoin Educational Resources on [lopp.net](lopp.net/bitcoin.html)
+
 ## Communications
 
 The Blockchain Guild community maintains the following communication channels:
