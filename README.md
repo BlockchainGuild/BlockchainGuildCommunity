@@ -59,14 +59,14 @@ The Blockchain Guild members are:
 * [Tuur Demeester](mailto:demeester.tuur@gmail.com):
   * Investment analyst, recommended Bitcoin since 2012
   * Founder & CEO of Adamant Capital
-  * Blogs on [Medium](medium.com/@tuurdemeester) and on Twitter is [@tuurdemeester](twitter.com/tuurdemeester)
+  * Blogs on [Medium](https://medium.com/@tuurdemeester) and on Twitter is [@tuurdemeester](https://twitter.com/tuurdemeester)
   * Originally from Belgium, resides in Austin, TX
 
 * [Jameson Lopp](mailto:jameson.lopp@gmail.com):
   * Software Engineer
-  * Creator of [Statoshi](https://statoshi.info) & the [Bitcoin Core Config Generator](jlopp.github.io/bitcoin-core-config-generator/)
-  * Writes on [Medium](medium.com/@lopp), [Coindesk](coindesk.com/author/jameson-lopp/), and Twitter [@lopp](twitter.com/lopp)
-  * Maintains Bitcoin Educational Resources on [lopp.net](lopp.net/bitcoin.html)
+  * Creator of [Statoshi](https://statoshi.info) & the [Bitcoin Core Config Generator](https://jlopp.github.io/bitcoin-core-config-generator/)
+  * Writes on [Medium](https://medium.com/@lopp), [Coindesk](https://coindesk.com/author/jameson-lopp/), and Twitter [@lopp](https://twitter.com/lopp)
+  * Maintains Bitcoin Educational Resources on [lopp.net](https://lopp.net/bitcoin.html)
 
 ## Communications
 
@@ -93,7 +93,7 @@ These documents are Copyright (c) 2017 by the [Blockchain Guild](https://github.
 * 0.5 BTC, for an accepted Journeyman proposal and final code for a simple C app doing RPC to bitcoind using some [libwally-core](https://github.com/ElementsProject/libwally-core) to Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
 * 0.5 BTC, for an accepted Journeyman proposal and final code for a better C-based RPC library to bitcoind than used in Chapter 12 of [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line).
 
-If you are interested in supporting a specific blockchain FOSS bounty project, or wish to support bounties in general, or in supporting infrastructure, contact [ChristopherA@LifeWithAlacrity.com](ChristopherA@LifeWithAlacrity.com) or you can directly contribute BTC to <link rel="payment" href="bitcoin:12pypEWGCnFXPJdSs283Q9W95BLEsQ9UBW">12pypEWGCnFXPJdSs283Q9W95BLEsQ9UBW</link> — we are investigating non-profit status but we do not have it at this time, so any contributions are not tax-deductible.
+If you are interested in supporting a specific blockchain FOSS bounty project, or wish to support bounties in general, or in supporting infrastructure, contact [ChristopherA@LifeWithAlacrity.com](mailto:ChristopherA@LifeWithAlacrity.com) or you can directly contribute BTC to <link rel="payment" href="bitcoin:12pypEWGCnFXPJdSs283Q9W95BLEsQ9UBW">12pypEWGCnFXPJdSs283Q9W95BLEsQ9UBW</link> — we are investigating non-profit status but we do not have it at this time, so any contributions are not tax-deductible.
 
 ## Disclaimer
 
