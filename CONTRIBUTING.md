@@ -2,7 +2,10 @@
 
 This is an open source project and we welcome contributions.
 
-The purpose of the [Blockchain Guild](https://github.com/BlockchainGuild) is (TBD):
+The purpose of the [Blockchain Guild](https://github.com/BlockchainGuild) is to:
+* Allow Patrons to be able to contribute back to support the open source ecosystem that allowed them to be successful.
+* Incentivize junior software engineers or those new to blockchain develop to learn the best practices of the community, and allow more experienced engineers a place to mentor them.
+* Support blockchain documentation, example code, libraries, infrastructure, etc.
 
 ## Getting Started
 
