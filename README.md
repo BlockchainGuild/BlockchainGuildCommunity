@@ -1,3 +1,4 @@
+[![Open Source Helpers](https://www.codetriage.com/blockchainguild/blockchainguildcommunity/badges/users.svg)](https://www.codetriage.com/blockchainguild/blockchainguildcommunity)
 # Blockchain Guild Community
 
 The purpose of the [Blockchain Guild](https://github.com/BlockchainGuild) is to:
